@@ -1,0 +1,15 @@
+/home/darya/projects/1kurs/2dz/obj/Debug/net6.0/2dz.csproj.AssemblyReference.cache
+/home/darya/projects/1kurs/2dz/obj/Debug/net6.0/2dz.GeneratedMSBuildEditorConfig.editorconfig
+/home/darya/projects/1kurs/2dz/obj/Debug/net6.0/2dz.AssemblyInfoInputs.cache
+/home/darya/projects/1kurs/2dz/obj/Debug/net6.0/2dz.AssemblyInfo.cs
+/home/darya/projects/1kurs/2dz/obj/Debug/net6.0/2dz.csproj.CoreCompileInputs.cache
+/home/darya/projects/1kurs/2dz/bin/Debug/net6.0/2dz
+/home/darya/projects/1kurs/2dz/bin/Debug/net6.0/2dz.deps.json
+/home/darya/projects/1kurs/2dz/bin/Debug/net6.0/2dz.runtimeconfig.json
+/home/darya/projects/1kurs/2dz/bin/Debug/net6.0/2dz.dll
+/home/darya/projects/1kurs/2dz/bin/Debug/net6.0/2dz.pdb
+/home/darya/projects/1kurs/2dz/obj/Debug/net6.0/2dz.dll
+/home/darya/projects/1kurs/2dz/obj/Debug/net6.0/refint/2dz.dll
+/home/darya/projects/1kurs/2dz/obj/Debug/net6.0/2dz.pdb
+/home/darya/projects/1kurs/2dz/obj/Debug/net6.0/2dz.genruntimeconfig.cache
+/home/darya/projects/1kurs/2dz/obj/Debug/net6.0/ref/2dz.dll
